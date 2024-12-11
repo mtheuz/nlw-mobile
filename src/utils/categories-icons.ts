@@ -1,5 +1,5 @@
-/*
-[import {
+
+import {
   IconBed,
   IconMovie,
   IconCoffee,
@@ -15,4 +15,3 @@ export const categoriesIcons: Record<string, React.ComponentType<IconProps>> = {
   "826910d4-187d-4c15-88f4-382b7e056739": IconMovie,
   "abce52cf-b33b-4b3c-8972-eb72c66c83e4": IconCoffee,
 }
-*/
